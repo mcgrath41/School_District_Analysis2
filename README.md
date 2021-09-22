@@ -14,7 +14,7 @@ Evaluate potential impact of fraudulent test scores from Thomas High School nint
 ### How is the district summary affected?
 Below is a summary of the performance of the district prior to the analysis:
 
-
+![](/Resources/District Summary Pre-Analysis.png)
 
 After the analysis, the 
 
